@@ -1,0 +1,13 @@
+D:\vs projects\wpfTimer\wpfTimer\bin\Debug\wpfTimer.exe.config
+D:\vs projects\wpfTimer\wpfTimer\bin\Debug\wpfTimer.exe
+D:\vs projects\wpfTimer\wpfTimer\bin\Debug\wpfTimer.pdb
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.csprojResolveAssemblyReference.cache
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\MainWindow.baml
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\MainWindow.g.cs
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\App.g.cs
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer_MarkupCompile.cache
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.g.resources
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.Properties.Resources.resources
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.csproj.GenerateResource.Cache
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.exe
+D:\vs projects\wpfTimer\wpfTimer\obj\Debug\wpfTimer.pdb
