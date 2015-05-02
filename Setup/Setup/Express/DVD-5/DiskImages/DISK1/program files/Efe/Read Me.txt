@@ -1,0 +1,6 @@
+You can set the program using hour, min, seconds 
+and after you set it will shutdown the pc.
+also it will show the user remainig time untill shutdown the pc.
+
+Copyright (c) 2015 Efe
+All Rights Reserved
